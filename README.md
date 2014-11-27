@@ -1,4 +1,4 @@
 Microeconomics
 ==============
 
-An introduction microeconomics textbook
+An introductory microeconomics textbook
